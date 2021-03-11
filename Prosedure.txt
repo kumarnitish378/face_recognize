@@ -1,0 +1,11 @@
+FUNCTONS: 
+
+import image
+		         
+convert imsge to gray scale 	
+        
+face detection
+
+make rectangle
+
+disply
