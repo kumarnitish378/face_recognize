@@ -94,7 +94,7 @@ subsystem==0.5.4
 tweepy==3.8.0
 twilio==6.50.0
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==1.26.5
 virtualenv==20.2.2
 Werkzeug==1.0.1
 whichcraft==0.6.0
